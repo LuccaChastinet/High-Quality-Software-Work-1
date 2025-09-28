@@ -76,3 +76,27 @@ Para executar os testes:
 ```bash
 python -m unittest testar_conversor.py
 ```
+
+## Critérios de Aceitação
+
+O conversor cumpre os seguintes critérios:
+
+- Permite selecionar moeda de origem e destino
+
+- Permite inserir valor a ser convertido
+
+- Exibe o valor convertido corretamente com 2 casas decimais
+
+- Valida entradas inválidas e valores negativos
+
+- Testes unitários cobrem todos os cenários positivos e negativos
+
+## Futuras Melhorias
+
+- Integração com API de câmbio em tempo real
+
+- Interface gráfica (GUI) para maior usabilidade
+
+- Armazenamento de histórico de conversões
+
+- Suporte a mais moedas internacionais
