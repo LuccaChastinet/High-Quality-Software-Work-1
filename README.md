@@ -26,7 +26,14 @@ currency_converter/
 
 ## Como Executar o Conversor
 
-1. Clone o repositório:
+## Como Executar o Conversor
+
+1. **Instalar o Python (se ainda não estiver instalado)**  
+   - Acesse o site oficial: [https://www.python.org/downloads/](https://www.python.org/downloads/)  
+   - Baixe a versão mais recente compatível com seu sistema operacional (recomenda-se Python 3.10 ou superior)  
+   - Durante a instalação, marque a opção **"Add Python to PATH"** para poder usar o Python no terminal/Prompt de Comando
+
+2. Clone o repositório:
 ```bash
 git clone <URL_DO_SEU_REPOSITORIO>
 cd currency_converter
