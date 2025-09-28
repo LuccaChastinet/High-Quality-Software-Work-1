@@ -4,6 +4,8 @@
 O **Conversor de Moedas** é um sistema simples em Python que permite converter valores entre diferentes moedas usando **taxas de câmbio pré-definidas**.  
 O projeto inclui uma interface de linha de comando amigável para o usuário e testes unitários que garantem que a funcionalidade está correta e precisa.
 
+Link para Quadro no Trello: https://trello.com/invite/b/68d94a052df79f23dc348dbb/ATTI84398b6552030eaabf8efa2cb83d40594D584B5F/agile-docs-code-sprint
+
 ### Moedas suportadas
 - BRL (Real Brasileiro)  
 - USD (Dólar Americano)  
