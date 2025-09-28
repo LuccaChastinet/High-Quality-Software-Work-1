@@ -64,7 +64,7 @@ As taxas estão armazenadas em proporcoes.json:
   "JPY": {"USD": 0.0067, "EUR": 0.0057, "BRL": 0.036}
 }
 ```
-Obs: Dados coletados do Google em 28/09/2025
+Obs: Dados coletados do **Google Finanças** em 28/09/2025
 
 ## Como Rodar os Testes Unitários
 
