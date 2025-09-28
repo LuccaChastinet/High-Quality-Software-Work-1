@@ -21,10 +21,7 @@ currency_converter/
 ├── testar_conversor.py # Testes unitários
 └── README.md # Documentação do projeto
 ```
-
 ---
-
-## Como Executar o Conversor
 
 ## Como Executar o Conversor
 
